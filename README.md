@@ -43,7 +43,7 @@ The subscribed topic name of the image is "/cv_camera_node1/image". We recommend
 DVMPC can follow the visual trajectory, which is consructed by the time consecutive 360-degree images.
 So, before the navigation, you need to collect the visual trajectory by tele-operation of the robot.
 Our code subscribes the visual trajectory as "/cv_camera_node2/image_ref".
-Therefore, you need to feed the subgoal image from the visual trajectory.
+Therefore, you need to feed the subgoal image from the visual trajectory into "/cv_camera_node2/image_ref".
 
 
 #### Step5: Runing DVMPC
