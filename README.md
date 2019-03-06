@@ -39,7 +39,7 @@ To turn on RICOH THETA S as the live streaming mode, please hold the bottom butt
 To capture the image from RICOH THETA S, we used the open source in ROS, cv_camera_node(http://wiki.ros.org/cv_camera).
 The subscribed topic name of the image is "/cv_camera_node1/image". We recommend that the flame rate of image is 3 fps.
 
-#### Step4: Subscribing subgoal image
+#### Step4: Publishing subgoal image
 DVMPC can follow the visual trajectory, which is consructed by the time consecutive 360-degree images.
 So, before the navigation, you need to collect the visual trajectory by tele-operation of the robot.
 Our code subscribes the visual trajectory as "/cv_camera_node2/image_ref".
