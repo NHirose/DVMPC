@@ -5,7 +5,7 @@
 Please see the [website](http://svl.stanford.edu/projects/dvmpc/) (http://svl.stanford.edu/projects/dvmpc/) for more technical details. This repository is intended for distribution of the code and its instruction.
 
 #### Paper
-**["Deep Visual MPC-Policy Learning for Navigation"](https://ieeexplore.ieee.org/document/8624332)**
+**["Deep Visual MPC-Policy Learning for Navigation"](https://arxiv.org/abs/1903.02749)**
 
 
 System Requirement
