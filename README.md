@@ -65,22 +65,14 @@ Citation
 
 If you use DVMPC's software or database, please cite:
 
-@article{hirose2019deep,
-
-  title={Deep visual mpc-policy learning for navigation},
-  
-  author={Hirose, Noriaki and Xia, Fei and Mart{\'\i}n-Mart{\'\i}n, Roberto and Sadeghian, Amir and Savarese, Silvio},
-  
-  journal={IEEE Robotics and Automation Letters},
-  
-  volume={4},
-  
-  number={4},
-  
-  pages={3184--3191},
-  
-  year={2019},
-  
-  publisher={IEEE}
+@article{hirose2019deep,  
+  title={Deep visual mpc-policy learning for navigation},  
+  author={Hirose, Noriaki and Xia, Fei and Mart{\'\i}n-Mart{\'\i}n, Roberto and Sadeghian, Amir and Savarese, Silvio},  
+  journal={IEEE Robotics and Automation Letters},  
+  volume={4},  
+  number={4},  
+  pages={3184--3191},  
+  year={2019},  
+  publisher={IEEE}  
 }
 
